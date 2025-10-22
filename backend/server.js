@@ -28,19 +28,18 @@ app.get('/', (req, res) => {
 // User registration endpoint
 app.post('/register', async (req, res) => {
   try {
-    const db = await dbPromise;
     const { username, password } = req.body;
     if (!username || !password) {
       return res.status(400).json({ message: 'Username and password are required' });
     }
 
-    const existingUser = await db.get('SELECT * FROM users WHERE username = ?', username);
-    if (existingUser) {
+    const existingUserResult = await pool.query('SELECT * FROM users WHERE username = $1', [username]);
+    if (existingUserResult.rows[0]) {
       return res.status(409).json({ message: 'Username already exists' });
     }
 
     const hashedPassword = await bcrypt.hash(password, 10);
-    await db.run('INSERT INTO users (username, password) VALUES (?, ?)', username, hashedPassword);
+    await pool.query('INSERT INTO users (username, password) VALUES ($1, $2)', [username, hashedPassword]);
 
     res.status(201).json({ message: 'User created successfully' });
   } catch (error) {
