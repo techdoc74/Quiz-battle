@@ -1,0 +1,1678 @@
+{
+  "users": [
+    {
+      "username": "techdoc",
+      "password": "$2b$10$zmr9l23YzoqhSyFDVNb8qevevSxG5k517MuX7Aqg4Jfbzz5KFZmTm"
+    }
+  ],
+  "questions": {
+    "9": {
+      "easy": [
+        {
+          "question": "What is the capital of France?",
+          "correct_answer": "Paris",
+          "incorrect_answers": [
+            "London",
+            "Berlin",
+            "Madrid"
+          ]
+        },
+        {
+          "question": "Which color is a banana?",
+          "correct_answer": "Yellow",
+          "incorrect_answers": [
+            "Red",
+            "Blue",
+            "Green"
+          ]
+        },
+        {
+          "question": "How many days are there in a week?",
+          "correct_answer": "7",
+          "incorrect_answers": [
+            "5",
+            "6",
+            "8"
+          ]
+        },
+        {
+          "question": "Which animal barks?",
+          "correct_answer": "Dog",
+          "incorrect_answers": [
+            "Cat",
+            "Cow",
+            "Sheep"
+          ]
+        },
+        {
+          "question": "What do bees make?",
+          "correct_answer": "Honey",
+          "incorrect_answers": [
+            "Milk",
+            "Bread",
+            "Juice"
+          ]
+        },
+        {
+          "question": "Which planet do we live on?",
+          "correct_answer": "Earth",
+          "incorrect_answers": [
+            "Mars",
+            "Venus",
+            "Jupiter"
+          ]
+        },
+        {
+          "question": "What is H2O commonly known as?",
+          "correct_answer": "Water",
+          "incorrect_answers": [
+            "Oxygen",
+            "Hydrogen",
+            "Salt"
+          ]
+        },
+        {
+          "question": "Which shape has three sides?",
+          "correct_answer": "Triangle",
+          "incorrect_answers": [
+            "Square",
+            "Circle",
+            "Rectangle"
+          ]
+        },
+        {
+          "question": "What is the opposite of 'hot'?",
+          "correct_answer": "Cold",
+          "incorrect_answers": [
+            "Warm",
+            "Cool",
+            "Boiling"
+          ]
+        },
+        {
+          "question": "Which fruit is red?",
+          "correct_answer": "Apple",
+          "incorrect_answers": [
+            "Banana",
+            "Grape",
+            "Pear"
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "question": "Which year did the French Revolution start?",
+          "correct_answer": "1789",
+          "incorrect_answers": [
+            "1776",
+            "1804",
+            "1812"
+          ]
+        },
+        {
+          "question": "What is the largest ocean on Earth?",
+          "correct_answer": "Pacific Ocean",
+          "incorrect_answers": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean"
+          ]
+        },
+        {
+          "question": "Who painted the Mona Lisa?",
+          "correct_answer": "Leonardo da Vinci",
+          "incorrect_answers": [
+            "Pablo Picasso",
+            "Vincent van Gogh",
+            "Claude Monet"
+          ]
+        },
+        {
+          "question": "What is the boiling point of water in Celsius?",
+          "correct_answer": "100",
+          "incorrect_answers": [
+            "90",
+            "80",
+            "120"
+          ]
+        },
+        {
+          "question": "Which country is known as the Land of the Rising Sun?",
+          "correct_answer": "Japan",
+          "incorrect_answers": [
+            "China",
+            "Thailand",
+            "South Korea"
+          ]
+        },
+        {
+          "question": "What is the hardest natural substance?",
+          "correct_answer": "Diamond",
+          "incorrect_answers": [
+            "Gold",
+            "Iron",
+            "Silver"
+          ]
+        },
+        {
+          "question": "Who wrote 'Romeo and Juliet'?",
+          "correct_answer": "William Shakespeare",
+          "incorrect_answers": [
+            "Charles Dickens",
+            "Jane Austen",
+            "Mark Twain"
+          ]
+        },
+        {
+          "question": "Which gas do plants absorb from the atmosphere?",
+          "correct_answer": "Carbon Dioxide",
+          "incorrect_answers": [
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen"
+          ]
+        },
+        {
+          "question": "What is the main language spoken in Brazil?",
+          "correct_answer": "Portuguese",
+          "incorrect_answers": [
+            "Spanish",
+            "English",
+            "French"
+          ]
+        },
+        {
+          "question": "How many continents are there?",
+          "correct_answer": "7",
+          "incorrect_answers": [
+            "5",
+            "6",
+            "8"
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "question": "Who wrote 'The Second Sex'?",
+          "correct_answer": "Simone de Beauvoir",
+          "incorrect_answers": [
+            "Virginia Woolf",
+            "Jean-Paul Sartre",
+            "Judith Butler"
+          ]
+        },
+        {
+          "question": "What is the smallest prime number greater than 100?",
+          "correct_answer": "101",
+          "incorrect_answers": [
+            "103",
+            "107",
+            "109"
+          ]
+        },
+        {
+          "question": "Which element has the atomic number 26?",
+          "correct_answer": "Iron",
+          "incorrect_answers": [
+            "Copper",
+            "Zinc",
+            "Silver"
+          ]
+        },
+        {
+          "question": "Who developed the theory of relativity?",
+          "correct_answer": "Albert Einstein",
+          "incorrect_answers": [
+            "Isaac Newton",
+            "Niels Bohr",
+            "Galileo Galilei"
+          ]
+        },
+        {
+          "question": "What is the capital of Mongolia?",
+          "correct_answer": "Ulaanbaatar",
+          "incorrect_answers": [
+            "Astana",
+            "Tashkent",
+            "Bishkek"
+          ]
+        },
+        {
+          "question": "Which scientist discovered penicillin?",
+          "correct_answer": "Alexander Fleming",
+          "incorrect_answers": [
+            "Marie Curie",
+            "Louis Pasteur",
+            "Isaac Newton"
+          ]
+        },
+        {
+          "question": "What is the square root of 256?",
+          "correct_answer": "16",
+          "incorrect_answers": [
+            "14",
+            "18",
+            "12"
+          ]
+        },
+        {
+          "question": "Which country hosted the 2008 Summer Olympics?",
+          "correct_answer": "China",
+          "incorrect_answers": [
+            "Greece",
+            "Australia",
+            "UK"
+          ]
+        },
+        {
+          "question": "What is the chemical symbol for gold?",
+          "correct_answer": "Au",
+          "incorrect_answers": [
+            "Ag",
+            "Gd",
+            "Go"
+          ]
+        },
+        {
+          "question": "Who was the first woman to win a Nobel Prize?",
+          "correct_answer": "Marie Curie",
+          "incorrect_answers": [
+            "Rosalind Franklin",
+            "Ada Lovelace",
+            "Dorothy Hodgkin"
+          ]
+        }
+      ]
+    },
+    "18": {
+      "easy": [
+        {
+          "question": "What does CPU stand for?",
+          "correct_answer": "Central Processing Unit",
+          "incorrect_answers": [
+            "Computer Personal Unit",
+            "Central Process Utility",
+            "Control Processing Unit"
+          ]
+        },
+        {
+          "question": "What does RAM stand for?",
+          "correct_answer": "Random Access Memory",
+          "incorrect_answers": [
+            "Read Access Memory",
+            "Run Accept Memory",
+            "Random Actual Memory"
+          ]
+        },
+        {
+          "question": "Which company developed Windows?",
+          "correct_answer": "Microsoft",
+          "incorrect_answers": [
+            "Apple",
+            "IBM",
+            "Google"
+          ]
+        },
+        {
+          "question": "What is the main language for web browsers?",
+          "correct_answer": "JavaScript",
+          "incorrect_answers": [
+            "Python",
+            "C++",
+            "Java"
+          ]
+        },
+        {
+          "question": "What does HTML stand for?",
+          "correct_answer": "HyperText Markup Language",
+          "incorrect_answers": [
+            "HyperText Markdown Language",
+            "HighText Markup Language",
+            "HyperTool Markup Language"
+          ]
+        },
+        {
+          "question": "Which device is used to input text?",
+          "correct_answer": "Keyboard",
+          "incorrect_answers": [
+            "Monitor",
+            "Mouse",
+            "Speaker"
+          ]
+        },
+        {
+          "question": "What is the shortcut for 'copy' on Windows?",
+          "correct_answer": "Ctrl + C",
+          "incorrect_answers": [
+            "Ctrl + V",
+            "Ctrl + X",
+            "Ctrl + Z"
+          ]
+        },
+        {
+          "question": "Which of these is a search engine?",
+          "correct_answer": "Google",
+          "incorrect_answers": [
+            "Excel",
+            "Windows",
+            "Linux"
+          ]
+        },
+        {
+          "question": "What does 'www' stand for?",
+          "correct_answer": "World Wide Web",
+          "incorrect_answers": [
+            "Web World Wide",
+            "Wide World Web",
+            "World Web Wide"
+          ]
+        },
+        {
+          "question": "Which is NOT an operating system?",
+          "correct_answer": "Python",
+          "incorrect_answers": [
+            "Linux",
+            "Windows",
+            "macOS"
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "question": "Who is known as the father of computers?",
+          "correct_answer": "Charles Babbage",
+          "incorrect_answers": [
+            "Alan Turing",
+            "Bill Gates",
+            "Steve Jobs"
+          ]
+        },
+        {
+          "question": "What year was the first iPhone released?",
+          "correct_answer": "2007",
+          "incorrect_answers": [
+            "2005",
+            "2008",
+            "2010"
+          ]
+        },
+        {
+          "question": "What does 'GPU' stand for?",
+          "correct_answer": "Graphics Processing Unit",
+          "incorrect_answers": [
+            "General Processing Unit",
+            "Graphical Performance Unit",
+            "Graphics Performance Utility"
+          ]
+        },
+        {
+          "question": "Which company created the Android OS?",
+          "correct_answer": "Google",
+          "incorrect_answers": [
+            "Apple",
+            "Microsoft",
+            "Samsung"
+          ]
+        },
+        {
+          "question": "What is the binary value of the decimal number 5?",
+          "correct_answer": "101",
+          "incorrect_answers": [
+            "110",
+            "100",
+            "111"
+          ]
+        },
+        {
+          "question": "Which programming language is used for Android app development?",
+          "correct_answer": "Java",
+          "incorrect_answers": [
+            "Swift",
+            "C#",
+            "Ruby"
+          ]
+        },
+        {
+          "question": "What does 'HTTP' stand for?",
+          "correct_answer": "HyperText Transfer Protocol",
+          "incorrect_answers": [
+            "HyperText Transmission Protocol",
+            "Hyper Transfer Text Protocol",
+            "Hyper Transmission Text Protocol"
+          ]
+        },
+        {
+          "question": "Which company developed the PlayStation?",
+          "correct_answer": "Sony",
+          "incorrect_answers": [
+            "Microsoft",
+            "Nintendo",
+            "Sega"
+          ]
+        },
+        {
+          "question": "What is the extension for a JavaScript file?",
+          "correct_answer": ".js",
+          "incorrect_answers": [
+            ".java",
+            ".py",
+            ".jsx"
+          ]
+        },
+        {
+          "question": "Which protocol is used to send emails?",
+          "correct_answer": "SMTP",
+          "incorrect_answers": [
+            "FTP",
+            "HTTP",
+            "SNMP"
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "question": "What was the first computer virus called?",
+          "correct_answer": "Creeper",
+          "incorrect_answers": [
+            "ILOVEYOU",
+            "Sasser",
+            "Blaster"
+          ]
+        },
+        {
+          "question": "What does 'BIOS' stand for?",
+          "correct_answer": "Basic Input Output System",
+          "incorrect_answers": [
+            "Binary Input Output System",
+            "Basic Integrated Operating System",
+            "Basic Input Output Software"
+          ]
+        },
+        {
+          "question": "Who invented the World Wide Web?",
+          "correct_answer": "Tim Berners-Lee",
+          "incorrect_answers": [
+            "Bill Gates",
+            "Steve Jobs",
+            "Mark Zuckerberg"
+          ]
+        },
+        {
+          "question": "What is the maximum value of a byte?",
+          "correct_answer": "255",
+          "incorrect_answers": [
+            "256",
+            "127",
+            "512"
+          ]
+        },
+        {
+          "question": "Which programming language was created by Guido van Rossum?",
+          "correct_answer": "Python",
+          "incorrect_answers": [
+            "Ruby",
+            "Java",
+            "C++"
+          ]
+        },
+        {
+          "question": "What does 'SSD' stand for?",
+          "correct_answer": "Solid State Drive",
+          "incorrect_answers": [
+            "Super Speed Drive",
+            "Solid State Disk",
+            "Secure Storage Device"
+          ]
+        },
+        {
+          "question": "Which company created the C programming language?",
+          "correct_answer": "Bell Labs",
+          "incorrect_answers": [
+            "IBM",
+            "Microsoft",
+            "Apple"
+          ]
+        },
+        {
+          "question": "What is the port number for HTTPS?",
+          "correct_answer": "443",
+          "incorrect_answers": [
+            "80",
+            "21",
+            "8080"
+          ]
+        },
+        {
+          "question": "Which is not a relational database?",
+          "correct_answer": "MongoDB",
+          "incorrect_answers": [
+            "MySQL",
+            "PostgreSQL",
+            "SQLite"
+          ]
+        },
+        {
+          "question": "What is the time complexity of binary search?",
+          "correct_answer": "O(log n)",
+          "incorrect_answers": [
+            "O(n)",
+            "O(n log n)",
+            "O(1)"
+          ]
+        }
+      ]
+    },
+    "21": {
+      "easy": [
+        {
+          "question": "How many players are there in a soccer team?",
+          "correct_answer": "11",
+          "incorrect_answers": [
+            "10",
+            "12",
+            "9"
+          ]
+        },
+        {
+          "question": "Which sport uses a racket, net, and shuttlecock?",
+          "correct_answer": "Badminton",
+          "incorrect_answers": [
+            "Tennis",
+            "Squash",
+            "Table Tennis"
+          ]
+        },
+        {
+          "question": "What color flag means 'stop' in car racing?",
+          "correct_answer": "Red",
+          "incorrect_answers": [
+            "Yellow",
+            "Green",
+            "Blue"
+          ]
+        },
+        {
+          "question": "Which sport is known as the 'king of sports'?",
+          "correct_answer": "Soccer",
+          "incorrect_answers": [
+            "Basketball",
+            "Tennis",
+            "Cricket"
+          ]
+        },
+        {
+          "question": "How many rings are there on the Olympic flag?",
+          "correct_answer": "5",
+          "incorrect_answers": [
+            "4",
+            "6",
+            "7"
+          ]
+        },
+        {
+          "question": "Which country invented baseball?",
+          "correct_answer": "USA",
+          "incorrect_answers": [
+            "Japan",
+            "England",
+            "Cuba"
+          ]
+        },
+        {
+          "question": "What is the national sport of Japan?",
+          "correct_answer": "Sumo Wrestling",
+          "incorrect_answers": [
+            "Judo",
+            "Karate",
+            "Baseball"
+          ]
+        },
+        {
+          "question": "Which sport uses a puck?",
+          "correct_answer": "Ice Hockey",
+          "incorrect_answers": [
+            "Field Hockey",
+            "Lacrosse",
+            "Golf"
+          ]
+        },
+        {
+          "question": "How many holes are there in a standard round of golf?",
+          "correct_answer": "18",
+          "incorrect_answers": [
+            "9",
+            "12",
+            "15"
+          ]
+        },
+        {
+          "question": "Which sport is Serena Williams famous for?",
+          "correct_answer": "Tennis",
+          "incorrect_answers": [
+            "Golf",
+            "Soccer",
+            "Basketball"
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "question": "Which country won the FIFA World Cup in 2018?",
+          "correct_answer": "France",
+          "incorrect_answers": [
+            "Brazil",
+            "Germany",
+            "Argentina"
+          ]
+        },
+        {
+          "question": "In which sport would you perform a slam dunk?",
+          "correct_answer": "Basketball",
+          "incorrect_answers": [
+            "Volleyball",
+            "Tennis",
+            "Football"
+          ]
+        },
+        {
+          "question": "How many points is a touchdown worth in American football?",
+          "correct_answer": "6",
+          "incorrect_answers": [
+            "3",
+            "7",
+            "5"
+          ]
+        },
+        {
+          "question": "Which country hosts the Tour de France?",
+          "correct_answer": "France",
+          "incorrect_answers": [
+            "Italy",
+            "Spain",
+            "Belgium"
+          ]
+        },
+        {
+          "question": "What is the maximum break in snooker?",
+          "correct_answer": "147",
+          "incorrect_answers": [
+            "155",
+            "140",
+            "150"
+          ]
+        },
+        {
+          "question": "Who holds the record for most Olympic gold medals?",
+          "correct_answer": "Michael Phelps",
+          "incorrect_answers": [
+            "Usain Bolt",
+            "Larisa Latynina",
+            "Mark Spitz"
+          ]
+        },
+        {
+          "question": "Which country won the first ever football World Cup?",
+          "correct_answer": "Uruguay",
+          "incorrect_answers": [
+            "Brazil",
+            "Italy",
+            "Argentina"
+          ]
+        },
+        {
+          "question": "What is the diameter of a basketball hoop in inches?",
+          "correct_answer": "18",
+          "incorrect_answers": [
+            "16",
+            "20",
+            "22"
+          ]
+        },
+        {
+          "question": "Which sport uses the terms 'love', 'deuce', and 'ace'?",
+          "correct_answer": "Tennis",
+          "incorrect_answers": [
+            "Badminton",
+            "Squash",
+            "Table Tennis"
+          ]
+        },
+        {
+          "question": "Who is known as the 'King of Football'?",
+          "correct_answer": "Pele",
+          "incorrect_answers": [
+            "Maradona",
+            "Messi",
+            "Ronaldo"
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "question": "Which country has won the most Cricket World Cups?",
+          "correct_answer": "Australia",
+          "incorrect_answers": [
+            "India",
+            "England",
+            "West Indies"
+          ]
+        },
+        {
+          "question": "How many Olympic gold medals did Carl Lewis win?",
+          "correct_answer": "9",
+          "incorrect_answers": [
+            "8",
+            "10",
+            "7"
+          ]
+        },
+        {
+          "question": "Which year was the first modern Olympic Games held?",
+          "correct_answer": "1896",
+          "incorrect_answers": [
+            "1900",
+            "1888",
+            "1920"
+          ]
+        },
+        {
+          "question": "Who won the FIFA Ballon d'Or in 2019?",
+          "correct_answer": "Lionel Messi",
+          "incorrect_answers": [
+            "Cristiano Ronaldo",
+            "Virgil van Dijk",
+            "Luka Modric"
+          ]
+        },
+        {
+          "question": "Which country hosted the 2000 Summer Olympics?",
+          "correct_answer": "Australia",
+          "incorrect_answers": [
+            "Greece",
+            "USA",
+            "China"
+          ]
+        },
+        {
+          "question": "What is the only Grand Slam tennis tournament played on clay?",
+          "correct_answer": "French Open",
+          "incorrect_answers": [
+            "Wimbledon",
+            "US Open",
+            "Australian Open"
+          ]
+        },
+        {
+          "question": "Who was the first gymnast to score a perfect 10 in the Olympics?",
+          "correct_answer": "Nadia Comaneci",
+          "incorrect_answers": [
+            "Simone Biles",
+            "Mary Lou Retton",
+            "Olga Korbut"
+          ]
+        },
+        {
+          "question": "Which country won the first Rugby World Cup?",
+          "correct_answer": "New Zealand",
+          "incorrect_answers": [
+            "Australia",
+            "England",
+            "South Africa"
+          ]
+        },
+        {
+          "question": "How many minutes is a rugby union match?",
+          "correct_answer": "80",
+          "incorrect_answers": [
+            "90",
+            "70",
+            "60"
+          ]
+        },
+        {
+          "question": "Who holds the record for most home runs in a single MLB season?",
+          "correct_answer": "Barry Bonds",
+          "incorrect_answers": [
+            "Babe Ruth",
+            "Mark McGwire",
+            "Sammy Sosa"
+          ]
+        }
+      ]
+    },
+    "23": {
+      "easy": [
+        {
+          "question": "Who was the first President of the United States?",
+          "correct_answer": "George Washington",
+          "incorrect_answers": [
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "John Adams"
+          ]
+        },
+        {
+          "question": "In which country did the Industrial Revolution begin?",
+          "correct_answer": "England",
+          "incorrect_answers": [
+            "France",
+            "USA",
+            "Germany"
+          ]
+        },
+        {
+          "question": "Who discovered America?",
+          "correct_answer": "Christopher Columbus",
+          "incorrect_answers": [
+            "Vasco da Gama",
+            "Ferdinand Magellan",
+            "James Cook"
+          ]
+        },
+        {
+          "question": "What wall divided Berlin from 1961 to 1989?",
+          "correct_answer": "Berlin Wall",
+          "incorrect_answers": [
+            "Great Wall",
+            "Iron Curtain",
+            "Wall of China"
+          ]
+        },
+        {
+          "question": "Who was the first man on the moon?",
+          "correct_answer": "Neil Armstrong",
+          "incorrect_answers": [
+            "Buzz Aldrin",
+            "Yuri Gagarin",
+            "Michael Collins"
+          ]
+        },
+        {
+          "question": "Which ship sank in 1912 after hitting an iceberg?",
+          "correct_answer": "Titanic",
+          "incorrect_answers": [
+            "Britannic",
+            "Lusitania",
+            "Olympic"
+          ]
+        },
+        {
+          "question": "Who was known as the Maid of Orléans?",
+          "correct_answer": "Joan of Arc",
+          "incorrect_answers": [
+            "Marie Curie",
+            "Catherine de Medici",
+            "Eleanor of Aquitaine"
+          ]
+        },
+        {
+          "question": "Which empire built the Colosseum?",
+          "correct_answer": "Roman Empire",
+          "incorrect_answers": [
+            "Greek Empire",
+            "Ottoman Empire",
+            "British Empire"
+          ]
+        },
+        {
+          "question": "Who was the British Prime Minister during WWII?",
+          "correct_answer": "Winston Churchill",
+          "incorrect_answers": [
+            "Neville Chamberlain",
+            "Margaret Thatcher",
+            "Tony Blair"
+          ]
+        },
+        {
+          "question": "Which country gifted the Statue of Liberty to the USA?",
+          "correct_answer": "France",
+          "incorrect_answers": [
+            "England",
+            "Germany",
+            "Italy"
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "question": "Who was the first emperor of Rome?",
+          "correct_answer": "Augustus",
+          "incorrect_answers": [
+            "Julius Caesar",
+            "Nero",
+            "Tiberius"
+          ]
+        },
+        {
+          "question": "What year did World War I begin?",
+          "correct_answer": "1914",
+          "incorrect_answers": [
+            "1918",
+            "1939",
+            "1920"
+          ]
+        },
+        {
+          "question": "Who was the longest-reigning British monarch before Queen Elizabeth II?",
+          "correct_answer": "Queen Victoria",
+          "incorrect_answers": [
+            "King George III",
+            "Queen Mary",
+            "Queen Anne"
+          ]
+        },
+        {
+          "question": "Which civilization built Machu Picchu?",
+          "correct_answer": "Inca",
+          "incorrect_answers": [
+            "Maya",
+            "Aztec",
+            "Olmec"
+          ]
+        },
+        {
+          "question": "Who was the leader of the Soviet Union during WWII?",
+          "correct_answer": "Joseph Stalin",
+          "incorrect_answers": [
+            "Vladimir Lenin",
+            "Nikita Khrushchev",
+            "Leon Trotsky"
+          ]
+        },
+        {
+          "question": "Which war was fought between the North and South regions in the United States?",
+          "correct_answer": "Civil War",
+          "incorrect_answers": [
+            "Revolutionary War",
+            "Vietnam War",
+            "World War I"
+          ]
+        },
+        {
+          "question": "Who was the first female Prime Minister of the UK?",
+          "correct_answer": "Margaret Thatcher",
+          "incorrect_answers": [
+            "Theresa May",
+            "Angela Merkel",
+            "Indira Gandhi"
+          ]
+        },
+        {
+          "question": "What year did the Berlin Wall fall?",
+          "correct_answer": "1989",
+          "incorrect_answers": [
+            "1991",
+            "1987",
+            "1990"
+          ]
+        },
+        {
+          "question": "Who was the Egyptian queen famous for her beauty?",
+          "correct_answer": "Cleopatra",
+          "incorrect_answers": [
+            "Nefertiti",
+            "Hatshepsut",
+            "Sobekneferu"
+          ]
+        },
+        {
+          "question": "Which explorer discovered the sea route to India?",
+          "correct_answer": "Vasco da Gama",
+          "incorrect_answers": [
+            "Christopher Columbus",
+            "Ferdinand Magellan",
+            "James Cook"
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "question": "Who was the last emperor of Russia?",
+          "correct_answer": "Nicholas II",
+          "incorrect_answers": [
+            "Alexander III",
+            "Peter the Great",
+            "Ivan the Terrible"
+          ]
+        },
+        {
+          "question": "Which treaty ended World War I?",
+          "correct_answer": "Treaty of Versailles",
+          "incorrect_answers": [
+            "Treaty of Paris",
+            "Treaty of Tordesillas",
+            "Treaty of Utrecht"
+          ]
+        },
+        {
+          "question": "Who was the first President of South Africa after apartheid?",
+          "correct_answer": "Nelson Mandela",
+          "incorrect_answers": [
+            "F.W. de Klerk",
+            "Jacob Zuma",
+            "Thabo Mbeki"
+          ]
+        },
+        {
+          "question": "Which dynasty built the Great Wall of China?",
+          "correct_answer": "Qin",
+          "incorrect_answers": [
+            "Han",
+            "Tang",
+            "Ming"
+          ]
+        },
+        {
+          "question": "Who was the first Holy Roman Emperor?",
+          "correct_answer": "Charlemagne",
+          "incorrect_answers": [
+            "Otto I",
+            "Frederick I",
+            "Henry IV"
+          ]
+        },
+        {
+          "question": "Which battle marked the end of Napoleon's rule?",
+          "correct_answer": "Battle of Waterloo",
+          "incorrect_answers": [
+            "Battle of Trafalgar",
+            "Battle of Leipzig",
+            "Battle of Austerlitz"
+          ]
+        },
+        {
+          "question": "Who was the first emperor of China?",
+          "correct_answer": "Qin Shi Huang",
+          "incorrect_answers": [
+            "Han Wudi",
+            "Kublai Khan",
+            "Sun Yat-sen"
+          ]
+        },
+        {
+          "question": "Which English king signed the Magna Carta?",
+          "correct_answer": "King John",
+          "incorrect_answers": [
+            "Henry VIII",
+            "Richard I",
+            "Edward I"
+          ]
+        },
+        {
+          "question": "Who was the leader of the Mongol Empire?",
+          "correct_answer": "Genghis Khan",
+          "incorrect_answers": [
+            "Kublai Khan",
+            "Attila the Hun",
+            "Tamerlane"
+          ]
+        },
+        {
+          "question": "Which city was known as Byzantium before being renamed?",
+          "correct_answer": "Constantinople",
+          "incorrect_answers": [
+            "Athens",
+            "Rome",
+            "Alexandria"
+          ]
+        }
+      ]
+    },
+    "17": {
+      "easy": [
+        {
+          "question": "What is the process by which plants make food?",
+          "correct_answer": "Photosynthesis",
+          "incorrect_answers": [
+            "Respiration",
+            "Digestion",
+            "Transpiration"
+          ]
+        },
+        {
+          "question": "What do bees collect from flowers?",
+          "correct_answer": "Nectar",
+          "incorrect_answers": [
+            "Pollen",
+            "Water",
+            "Leaves"
+          ]
+        },
+        {
+          "question": "What is the largest planet in our solar system?",
+          "correct_answer": "Jupiter",
+          "incorrect_answers": [
+            "Saturn",
+            "Earth",
+            "Mars"
+          ]
+        },
+        {
+          "question": "Which organ pumps blood through the body?",
+          "correct_answer": "Heart",
+          "incorrect_answers": [
+            "Liver",
+            "Lungs",
+            "Brain"
+          ]
+        },
+        {
+          "question": "What gas do humans need to breathe?",
+          "correct_answer": "Oxygen",
+          "incorrect_answers": [
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+          ]
+        },
+        {
+          "question": "What is the boiling point of water in Celsius?",
+          "correct_answer": "100",
+          "incorrect_answers": [
+            "90",
+            "80",
+            "120"
+          ]
+        },
+        {
+          "question": "Which animal is known as man's best friend?",
+          "correct_answer": "Dog",
+          "incorrect_answers": [
+            "Cat",
+            "Horse",
+            "Rabbit"
+          ]
+        },
+        {
+          "question": "What is the main source of energy for Earth?",
+          "correct_answer": "Sun",
+          "incorrect_answers": [
+            "Moon",
+            "Wind",
+            "Water"
+          ]
+        },
+        {
+          "question": "Which part of the plant absorbs water?",
+          "correct_answer": "Roots",
+          "incorrect_answers": [
+            "Leaves",
+            "Stem",
+            "Flower"
+          ]
+        },
+        {
+          "question": "What is the hardest natural substance?",
+          "correct_answer": "Diamond",
+          "incorrect_answers": [
+            "Gold",
+            "Iron",
+            "Silver"
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "question": "What is the chemical symbol for sodium?",
+          "correct_answer": "Na",
+          "incorrect_answers": [
+            "S",
+            "So",
+            "Sn"
+          ]
+        },
+        {
+          "question": "Which planet is known as the Red Planet?",
+          "correct_answer": "Mars",
+          "incorrect_answers": [
+            "Venus",
+            "Jupiter",
+            "Saturn"
+          ]
+        },
+        {
+          "question": "What is the largest mammal?",
+          "correct_answer": "Blue Whale",
+          "incorrect_answers": [
+            "Elephant",
+            "Giraffe",
+            "Hippopotamus"
+          ]
+        },
+        {
+          "question": "What is the main gas found in the air we breathe?",
+          "correct_answer": "Nitrogen",
+          "incorrect_answers": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Hydrogen"
+          ]
+        },
+        {
+          "question": "Which vitamin is produced when a person is exposed to sunlight?",
+          "correct_answer": "Vitamin D",
+          "incorrect_answers": [
+            "Vitamin A",
+            "Vitamin B",
+            "Vitamin C"
+          ]
+        },
+        {
+          "question": "What is the center of an atom called?",
+          "correct_answer": "Nucleus",
+          "incorrect_answers": [
+            "Electron",
+            "Proton",
+            "Neutron"
+          ]
+        },
+        {
+          "question": "Which blood cells help fight infection?",
+          "correct_answer": "White blood cells",
+          "incorrect_answers": [
+            "Red blood cells",
+            "Platelets",
+            "Plasma"
+          ]
+        },
+        {
+          "question": "What is the largest organ in the human body?",
+          "correct_answer": "Skin",
+          "incorrect_answers": [
+            "Liver",
+            "Heart",
+            "Lungs"
+          ]
+        },
+        {
+          "question": "Which element has the atomic number 1?",
+          "correct_answer": "Hydrogen",
+          "incorrect_answers": [
+            "Helium",
+            "Oxygen",
+            "Carbon"
+          ]
+        },
+        {
+          "question": "What is the process of water changing from liquid to gas?",
+          "correct_answer": "Evaporation",
+          "incorrect_answers": [
+            "Condensation",
+            "Precipitation",
+            "Sublimation"
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "question": "What is the powerhouse of the cell?",
+          "correct_answer": "Mitochondria",
+          "incorrect_answers": [
+            "Nucleus",
+            "Ribosome",
+            "Chloroplast"
+          ]
+        },
+        {
+          "question": "What is the most abundant gas in Earth's atmosphere?",
+          "correct_answer": "Nitrogen",
+          "incorrect_answers": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Argon"
+          ]
+        },
+        {
+          "question": "Which scientist proposed the three laws of motion?",
+          "correct_answer": "Isaac Newton",
+          "incorrect_answers": [
+            "Albert Einstein",
+            "Galileo Galilei",
+            "Nikola Tesla"
+          ]
+        },
+        {
+          "question": "What is the chemical formula for table salt?",
+          "correct_answer": "NaCl",
+          "incorrect_answers": [
+            "KCl",
+            "NaCO3",
+            "CaCl2"
+          ]
+        },
+        {
+          "question": "Which planet has the most moons?",
+          "correct_answer": "Saturn",
+          "incorrect_answers": [
+            "Jupiter",
+            "Mars",
+            "Earth"
+          ]
+        },
+        {
+          "question": "What is the study of fungi called?",
+          "correct_answer": "Mycology",
+          "incorrect_answers": [
+            "Botany",
+            "Zoology",
+            "Ecology"
+          ]
+        },
+        {
+          "question": "Which element has the chemical symbol 'Fe'?",
+          "correct_answer": "Iron",
+          "incorrect_answers": [
+            "Fluorine",
+            "Francium",
+            "Fermium"
+          ]
+        },
+        {
+          "question": "What is the rarest blood type?",
+          "correct_answer": "AB negative",
+          "incorrect_answers": [
+            "O positive",
+            "A negative",
+            "B positive"
+          ]
+        },
+        {
+          "question": "What is the largest bone in the human body?",
+          "correct_answer": "Femur",
+          "incorrect_answers": [
+            "Tibia",
+            "Humerus",
+            "Fibula"
+          ]
+        },
+        {
+          "question": "What is the main function of red blood cells?",
+          "correct_answer": "Carry oxygen",
+          "incorrect_answers": [
+            "Fight infection",
+            "Clot blood",
+            "Produce hormones"
+          ]
+        }
+      ]
+    },
+    "22": {
+      "easy": [
+        {
+          "question": "What is the largest continent?",
+          "correct_answer": "Asia",
+          "incorrect_answers": [
+            "Africa",
+            "Europe",
+            "North America"
+          ]
+        },
+        {
+          "question": "Which ocean is the largest?",
+          "correct_answer": "Pacific Ocean",
+          "incorrect_answers": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean"
+          ]
+        },
+        {
+          "question": "What is the capital of Italy?",
+          "correct_answer": "Rome",
+          "incorrect_answers": [
+            "Milan",
+            "Venice",
+            "Florence"
+          ]
+        },
+        {
+          "question": "Which country is known as the Land of the Rising Sun?",
+          "correct_answer": "Japan",
+          "incorrect_answers": [
+            "China",
+            "Thailand",
+            "South Korea"
+          ]
+        },
+        {
+          "question": "Which desert is the largest in the world?",
+          "correct_answer": "Sahara",
+          "incorrect_answers": [
+            "Gobi",
+            "Kalahari",
+            "Arabian"
+          ]
+        },
+        {
+          "question": "What is the longest river in the world?",
+          "correct_answer": "Nile",
+          "incorrect_answers": [
+            "Amazon",
+            "Yangtze",
+            "Mississippi"
+          ]
+        },
+        {
+          "question": "Which country has the most people?",
+          "correct_answer": "China",
+          "incorrect_answers": [
+            "India",
+            "USA",
+            "Russia"
+          ]
+        },
+        {
+          "question": "What is the capital of France?",
+          "correct_answer": "Paris",
+          "incorrect_answers": [
+            "London",
+            "Berlin",
+            "Madrid"
+          ]
+        },
+        {
+          "question": "Which continent is Egypt in?",
+          "correct_answer": "Africa",
+          "incorrect_answers": [
+            "Asia",
+            "Europe",
+            "South America"
+          ]
+        },
+        {
+          "question": "Which country is famous for tulips and windmills?",
+          "correct_answer": "Netherlands",
+          "incorrect_answers": [
+            "Belgium",
+            "France",
+            "Germany"
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "question": "What is the smallest country in the world?",
+          "correct_answer": "Vatican City",
+          "incorrect_answers": [
+            "Monaco",
+            "San Marino",
+            "Liechtenstein"
+          ]
+        },
+        {
+          "question": "Which river flows through London?",
+          "correct_answer": "Thames",
+          "incorrect_answers": [
+            "Seine",
+            "Danube",
+            "Rhine"
+          ]
+        },
+        {
+          "question": "What is the capital of Canada?",
+          "correct_answer": "Ottawa",
+          "incorrect_answers": [
+            "Toronto",
+            "Vancouver",
+            "Montreal"
+          ]
+        },
+        {
+          "question": "Which mountain is the highest in the world?",
+          "correct_answer": "Mount Everest",
+          "incorrect_answers": [
+            "K2",
+            "Kangchenjunga",
+            "Lhotse"
+          ]
+        },
+        {
+          "question": "Which country has the most islands?",
+          "correct_answer": "Sweden",
+          "incorrect_answers": [
+            "Indonesia",
+            "Philippines",
+            "Norway"
+          ]
+        },
+        {
+          "question": "Which US state is known as the Sunshine State?",
+          "correct_answer": "Florida",
+          "incorrect_answers": [
+            "California",
+            "Texas",
+            "Hawaii"
+          ]
+        },
+        {
+          "question": "What is the capital of Australia?",
+          "correct_answer": "Canberra",
+          "incorrect_answers": [
+            "Sydney",
+            "Melbourne",
+            "Brisbane"
+          ]
+        },
+        {
+          "question": "Which country is both in Europe and Asia?",
+          "correct_answer": "Turkey",
+          "incorrect_answers": [
+            "Russia",
+            "Kazakhstan",
+            "Georgia"
+          ]
+        },
+        {
+          "question": "Which African country has the most population?",
+          "correct_answer": "Nigeria",
+          "incorrect_answers": [
+            "Egypt",
+            "South Africa",
+            "Ethiopia"
+          ]
+        },
+        {
+          "question": "Which is the largest US state by area?",
+          "correct_answer": "Alaska",
+          "incorrect_answers": [
+            "Texas",
+            "California",
+            "Montana"
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "question": "Which country has the most official languages?",
+          "correct_answer": "South Africa",
+          "incorrect_answers": [
+            "India",
+            "Switzerland",
+            "Belgium"
+          ]
+        },
+        {
+          "question": "What is the deepest point in Earth's oceans?",
+          "correct_answer": "Mariana Trench",
+          "incorrect_answers": [
+            "Tonga Trench",
+            "Puerto Rico Trench",
+            "Java Trench"
+          ]
+        },
+        {
+          "question": "Which city is known as the City of Canals?",
+          "correct_answer": "Venice",
+          "incorrect_answers": [
+            "Amsterdam",
+            "Bangkok",
+            "Bruges"
+          ]
+        },
+        {
+          "question": "Which desert covers much of Botswana?",
+          "correct_answer": "Kalahari",
+          "incorrect_answers": [
+            "Sahara",
+            "Namib",
+            "Gobi"
+          ]
+        },
+        {
+          "question": "Which river is the longest in South America?",
+          "correct_answer": "Amazon",
+          "incorrect_answers": [
+            "Parana",
+            "Orinoco",
+            "Madeira"
+          ]
+        },
+        {
+          "question": "Which country has the most volcanoes?",
+          "correct_answer": "Indonesia",
+          "incorrect_answers": [
+            "Japan",
+            "USA",
+            "Italy"
+          ]
+        },
+        {
+          "question": "Which city is the capital of Mongolia?",
+          "correct_answer": "Ulaanbaatar",
+          "incorrect_answers": [
+            "Astana",
+            "Tashkent",
+            "Bishkek"
+          ]
+        },
+        {
+          "question": "Which is the only continent without reptiles or snakes?",
+          "correct_answer": "Antarctica",
+          "incorrect_answers": [
+            "Europe",
+            "Asia",
+            "Australia"
+          ]
+        },
+        {
+          "question": "Which country is home to the ancient city of Petra?",
+          "correct_answer": "Jordan",
+          "incorrect_answers": [
+            "Egypt",
+            "Israel",
+            "Syria"
+          ]
+        },
+        {
+          "question": "Which mountain range separates Europe and Asia?",
+          "correct_answer": "Ural Mountains",
+          "incorrect_answers": [
+            "Alps",
+            "Andes",
+            "Rockies"
+          ]
+        }
+      ]
+    }
+  }
+}

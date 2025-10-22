@@ -1,0 +1,11 @@
+{
+  "name": "quiz-battle-root",
+  "private": true,
+  "scripts": {
+    "dev": "cd Quiz-Battle && npm run dev",
+    "install": "cd Quiz-Battle && npm install"
+  },
+  "dependencies": {
+    "react-router-dom": "^7.6.3"
+  }
+}
