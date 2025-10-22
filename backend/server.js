@@ -2,6 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const bcrypt = require('bcryptjs');
 const { Pool } = require('pg');
+const { setup: setupDatabase } = require('./database');
 require('dotenv').config();
 
 // Create a PostgreSQL connection pool
@@ -146,6 +147,11 @@ app.get('/auth/google/callback', (req, res) => {
 });
 
 // Start the server
-app.listen(port, () => {
-  console.log(`Backend server is running on http://localhost:${port}`);
-});
+async function startServer() {
+  await setupDatabase();
+  app.listen(port, () => {
+    console.log(`Backend server is running on http://localhost:${port}`);
+  });
+}
+
+startServer();

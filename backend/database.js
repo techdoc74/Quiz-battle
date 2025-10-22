@@ -1,7 +1,6 @@
 const { Client } = require('pg');
 const fs = require('fs');
 const path = require('path');
-require('dotenv').config();
 
 async function setup() {
   // Use the DATABASE_URL from the environment variables
@@ -24,4 +23,4 @@ async function setup() {
   }
 }
 
-setup();
+module.exports = { setup };
