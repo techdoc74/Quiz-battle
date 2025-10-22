@@ -6,7 +6,7 @@ import Quiz from "./page/Quiz";
 import Leaderboard from "./page/Leaderboard";
 import StartQuiz from "./page/Start";
 import Navbar from "./components/Navbar";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 import HomePage from "./page/HomePage"; // Add this import
 import './App.css'
 
