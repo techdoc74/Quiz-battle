@@ -17,7 +17,16 @@ const app = express();
 const port = 3001; // We'll use port 3001 for the backend
 
 // Middleware
-app.use(cors()); // Enable Cross-Origin Resource Sharing
+const allowedOrigins = [
+  'http://localhost:5173', // Your local frontend dev server
+  'https://quizzbattle.netlify.app' // Your deployed frontend
+];
+
+const corsOptions = {
+  origin: allowedOrigins
+};
+
+app.use(cors(corsOptions)); // Enable Cross-Origin Resource Sharing
 app.use(express.json()); // Allow the server to accept JSON data
 
 // A simple test route
